@@ -1,0 +1,66 @@
+.button-banar{
+    background-color: #B68C5A !important;
+    color: #fff !important;
+}
+.icons-rigth{
+    width: 8px !important;
+}
+.banar{
+    margin-top: -430px !important ;
+}
+.banar h1{
+    
+    font-size: 60px !important;
+    
+}
+.area{
+    padding-top: 180px !important;
+}
+h1,h3{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.area p{
+    color: #A0A0A0;
+
+}
+.card-s p{
+    color: #A0A0A0;
+}
+.criminal-card{
+    background-color: #f3f3f3;
+    background-image: linear-gradient(180deg,#e7e7e7,#fff);
+}
+.clain-p{
+    color: #a0a0a0;
+}
+.banar-clain{
+    margin-top: -440px !important;
+}
+.sofi-img{
+    width: 100px !important;
+}
+
+@media only screen and (max-width:768px) {
+    .banar{
+        margin-top: -175px !important;
+    }
+    .banar h1{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px !important;
+    }
+    .banar p{
+        font-size: 10px !important;
+        
+    }
+    .area{
+        margin-top: -200px !important;
+    }
+    .banar-clain{
+        margin-top: 10px !important;
+        color: #000 !important;
+    }
+    .sofi-img{
+        width: 40px !important;
+    }
+}
