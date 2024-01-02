@@ -43,6 +43,32 @@ h1,h3,h4{
 .contact{
     margin-top: 230px !important;
 }
+.infut-text{
+    width: 505px;
+    height: 45px;
+    display: block;
+    margin: 20px;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.infut-text-1{
+    margin: 0 20px;
+}
+.infut-text-2{
+    width: 505px;
+    height: 100px;
+    display: block;
+}
+.infut-text-button{
+    width: 505px;
+    height: 45px;
+    background-color: #B68C5A ;
+    text-align: center;
+    padding: 5px 0;
+    margin:0 20px;
+    border-radius: 5px;
+    color:#fff;
+}
 
 @media only screen and (max-width:768px) {
     .banar{
@@ -71,5 +97,9 @@ h1,h3,h4{
     }
     .contact{
         margin-top: 50px !important;
+    }
+    .text-form,.infut-text,.infut-text-button{
+        width: 100% !important;
+        margin-left: 0 !important;
     }
 }
